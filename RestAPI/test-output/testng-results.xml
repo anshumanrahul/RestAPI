@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T11:51:38 IST" name="Default suite" finished-at="2023-02-20T11:51:40 IST" duration-ms="2162">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T11:51:38 IST" name="Default test" finished-at="2023-02-20T11:51:40 IST" duration-ms="2162">
+      <class name="com.restAssured.RestAPI.ValidateBookHeaders">
+        <test-method signature="ValidateBookHeader()[pri:0, instance:com.restAssured.RestAPI.ValidateBookHeaders@1ed6388a]" started-at="2023-02-20T11:51:38 IST" name="ValidateBookHeader" finished-at="2023-02-20T11:51:40 IST" duration-ms="2106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateBookHeader -->
+      </class> <!-- com.restAssured.RestAPI.ValidateBookHeaders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
